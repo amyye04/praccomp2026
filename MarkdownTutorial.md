@@ -59,12 +59,12 @@ echo "Hello"
 ```
 
 - Python example
-'''python
+```python
 print("Hello")
-'''
+```
 
 - R Example
-'''r
+```r
 x <- 4^2
-'''
+```
 
