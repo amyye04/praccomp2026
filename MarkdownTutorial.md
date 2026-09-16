@@ -45,3 +45,14 @@ http://brewerlab.net - automatic
 ## IMAGES
 
 ![BrewerLab Logo](https://brewerlab.weebly.com/uploads/9/8/3/7/98371626/spiderdrawingslack.png)
+
+
+## BACKSLASH ESCAPES
+
+\* Literal Asterasks\*
+
+## FENCED CODE BLOCKS
+
+```
+echo "Hello"
+```
