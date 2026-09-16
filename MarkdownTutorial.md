@@ -84,5 +84,5 @@ Content column 1 row 2 | Countent column 2 row 2
 
 
 ## EMOJI
-:two women holding hands:
+
 :spider:
