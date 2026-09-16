@@ -8,13 +8,13 @@
 
 ## EMPHASIS
 
-*This text will be italic
+*This text will be italic*
 
-_This text will be italic
+_This text will be italic_
 
-**This text will be bolded
+**This text will be bolded**
 
-__This text will be bolded
+__This text will be bolded__
 
 _You **can** combine them_
 
@@ -40,3 +40,8 @@ Ordered
 http://brewerlab.net - automatic
 
 [Brewer Lab](http://brewerlab.net) 
+
+
+## IMAGES
+
+![ECU Logo](https://www.wnct.com/wp-content/uploads/sites/99/2018/05/NEW-ECU-LOGO_1527192530205_43378313_ver1.0.jpg?w=1920&h=1080&crop=1)
