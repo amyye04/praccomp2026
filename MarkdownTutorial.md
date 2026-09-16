@@ -44,4 +44,4 @@ http://brewerlab.net - automatic
 
 ## IMAGES
 
-![ECU Logo](https://www.wnct.com/wp-content/uploads/sites/99/2018/05/NEW-ECU-LOGO_1527192530205_43378313_ver1.0.jpg?w=1920&h=1080&crop=1)
+![BrewerLab Logo](https://brewerlab.weebly.com/uploads/9/8/3/7/98371626/spiderdrawingslack.png)
